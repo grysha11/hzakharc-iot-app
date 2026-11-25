@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: iot-app
-        image: grysha11/iot-app:v1
+        image: grysha11/iot-app:v2
         ports:
           - containerPort: 8888
